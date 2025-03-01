@@ -10,14 +10,14 @@ function App() {
   const [todos, setTodos] = useState([
     {
       id: 1,
-      text: "Criar funcionalidades/tarefas no Sistema",
-      category: "Trabalho",
+      text: "Ir para o Ginásio",
+      category: "Pessoal",
       isCompleted: false,
     },
     {
       id: 2,
-      text: "Ir para a academia",
-      category: "Pessoal",
+      text: "Criar funcionalidades/tarefas no Sistema de Gestão",
+      category: "Trabalho",
       isCompleted: false,
     },
     {
